@@ -1,1 +1,2 @@
-web: gunicorn btre.wsgi:application
+release: python manage.py migrate
+web: gunicorn btre.wsgi
