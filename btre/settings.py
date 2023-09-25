@@ -84,7 +84,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ponredb',
         'USER': 'postgres',
-        'PASSWORD': '123456',
+        'PASSWORD': 'Wms0Fri2024!',
         'HOST': 'localhost'
     }
 }
